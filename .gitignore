@@ -1,0 +1,5 @@
+*.log
+*.xlsx
+build
+node_modules
+package-lock.json
