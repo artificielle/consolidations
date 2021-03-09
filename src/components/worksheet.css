@@ -1,0 +1,11 @@
+.worksheet-container table,
+.worksheet-container th,
+.worksheet-container td {
+  border-collapse: collapse;
+  border: thin solid silver;
+}
+
+.worksheet-container table {
+  width: 100%;
+  table-layout: fixed;
+}
